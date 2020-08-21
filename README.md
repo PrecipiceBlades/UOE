@@ -1,2 +1,2 @@
 # UOE
-Study
+Random stuff at Edinburgh
